@@ -1,4 +1,4 @@
-#  ![Full Demo Video] ()
+#  
   [Full Demo Video](https://github.com/10jplz/Readmegenerator/blob/main/Demo.gif)  
   ![demo clip](https://github.com/10jplz/Readmegenerator/blob/main/Demo.gif)
 
