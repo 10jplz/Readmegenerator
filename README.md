@@ -1,4 +1,4 @@
-# Demo https://github.com/10jplz/Readmegenerator/blob/main/Demo.gif
+# [Full Demo Video] (https://github.com/10jplz/Readmegenerator/blob/main/Demo.gif)
 
 
   [![License](https://img.shields.io/badge/License-MIT-yellow.svg)]
