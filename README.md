@@ -5,7 +5,7 @@
 
   ## Description 
 
-  Easily generate a README.MD file for your next project.
+  Easily generate a README.MD file for your next project
 
   ## Table of Contents (Optional)
   ----
@@ -16,11 +16,11 @@
 
   ## Installation 
 
-  Using "Npm Install" to install dependencies 
+  Using "NPN Install" to install dependencies 
 
   ## Usage
 
-  Running "node index.js" in the terminal 
+  Running "node index" in the terminal
 
   ## Contribution
 
