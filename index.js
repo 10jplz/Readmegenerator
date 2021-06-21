@@ -26,7 +26,7 @@ const promptUser = () =>
     {
         type: 'input',
         name: 'installation',
-        message: 'How can this project be installed '
+        message: 'How can this project be installed?'
     },
     {
         type: 'input', 
@@ -54,6 +54,16 @@ const promptUser = () =>
         type: 'input',
         name: 'email',
         message: 'What is your Email Address?'
+    },
+    {
+        type: 'input',
+        name: 'repo',
+        message: 'Link to the projects Repository'
+    },
+    {
+        type: 'input',
+        name: 'liveapp',
+        message: 'Enter link to the Live Application'
     }
 ]);
 

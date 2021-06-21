@@ -42,6 +42,8 @@ function generateMarkdown(data) {
   * [Usage](#usage)
   * [Contribution](#contribution)
   * [License](#license)
+  * [Github Repository] (#repo)
+  * [Deployed App] (#liveapp)
 
   ## Installation 
 
@@ -61,6 +63,14 @@ function generateMarkdown(data) {
 
   ## Tests
    ${data.tests}
+
+   ## Github Repository
+
+   ${data.repo}
+
+   ## Deployed App
+   
+   ${data.liveapp}
 
   ## How to Contact Developer
 
