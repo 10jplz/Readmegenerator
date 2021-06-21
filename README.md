@@ -1,7 +1,7 @@
 
   [![License](https://img.shields.io/badge/License-MIT-yellow.svg)]
   ----
-  # undefined
+  # README Generator
 
   ## Description 
 
@@ -16,11 +16,11 @@
 
   ## Installation 
 
-  Using "Npm Install" to install dependencies  
+  Using "Npm Install" to install dependencies 
 
   ## Usage
 
-  In the terminal running "Node index.js"
+  Running "node index.js" in the terminal 
 
   ## Contribution
 

@@ -30,7 +30,7 @@ function generateMarkdown(data) {
   return `
   ${badge(data.license)}
   ----
-  # ${data.tittle}
+  # ${data.title}
 
   ## Description 
 
