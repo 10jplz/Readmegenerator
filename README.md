@@ -5,7 +5,7 @@
 
   ## Description 
 
-  Easily generate a README.MD file for your next project
+  Easily generate readme files for your projects
 
   ## Table of Contents (Optional)
   ----
@@ -13,14 +13,16 @@
   * [Usage](#usage)
   * [Contribution](#contribution)
   * [License](#license)
+  * [Github Repository] (#repo)
+  * [Deployed App] (#liveapp)
 
   ## Installation 
 
-  Using "NPN Install" to install dependencies 
+  running npm i in the terminal 
 
   ## Usage
 
-  Running "node index" in the terminal
+  running node index.js in the terminal
 
   ## Contribution
 
@@ -31,12 +33,20 @@
   MIT
 
   ## Tests
-   Type in npm run test inside the terminal
+   
+
+   ## Github Repository
+
+   https://github.com/10jplz/Readmegenerator
+
+   ## Deployed App
+   
+   https://github.com/10jplz/Readmegenerator
 
   ## How to Contact Developer
 
 
-  Please see my [GitHub profile](https://github.com/10jplz)
+  Please see my [GitHub profile](https://github.com/10jplz@gmail.com)
   You can also email me questions at: 10jplz@gmail.com
 
 
